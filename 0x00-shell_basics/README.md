@@ -16,3 +16,4 @@ Move files beginning with uppercase
 Delete all files that end with ~ character
 Create multiple directories in current directory
 List files separated by comma
+Magic file
