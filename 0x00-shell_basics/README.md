@@ -13,3 +13,4 @@ Printing the type of file named iamafile
 Creating symbolic link
 Copy HTML files
 Move files beginning with uppercase
+Delete all files that end with ~ character
