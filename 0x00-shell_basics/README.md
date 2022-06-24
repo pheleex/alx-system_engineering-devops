@@ -6,3 +6,4 @@ Display hidden contents in 4-listmorefiles
 List user id in 5-listfilesdigitonly
 Move betty file
 Delete the file betty
+Delete my_first_directory
