@@ -4,3 +4,4 @@ Change working directory to users home in 2-bring_me_home
 Show directory contents in long format in 3-listfiles
 Display hidden contents in 4-listmorefiles
 List user id in 5-listfilesdigitonly
+Move betty file
