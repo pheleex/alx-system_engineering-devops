@@ -13,3 +13,4 @@ Directory permission
 More directories
 Change group
 Owner and group
+Symbolic links
