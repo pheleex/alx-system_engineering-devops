@@ -9,3 +9,4 @@ Permissions for everyone
 James bond
 John doe
 Mirror permissions
+Directory permission
