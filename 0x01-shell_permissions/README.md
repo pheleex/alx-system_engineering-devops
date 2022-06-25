@@ -4,3 +4,4 @@ Groups
 Change owner  of file
 Create empty file called hello
 Add execute permission to hello file
+Multiple permissions
