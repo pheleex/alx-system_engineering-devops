@@ -11,3 +11,4 @@ John doe
 Mirror permissions
 Directory permission
 More directories
+Change group
